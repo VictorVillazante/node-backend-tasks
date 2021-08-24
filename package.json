@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/ernestomar/node-backend-tasks#readme",
   "dependencies": {
+    "block": "^0.2.1",
+    "blockchain": "^1.0.6",
+    "blockchin": "0.0.2",
     "body-parser": "^1.19.0",
     "express": "^4.17.1"
   }
